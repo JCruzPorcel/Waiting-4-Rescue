@@ -7,4 +7,4 @@ Aunque hoy en día hay plugins que simplifican este proceso, me enorgullece habe
 
 Puedes encontrar Waiting-4-Rescue en mi perfil de Itch.io, donde lo he subido para que otros puedan disfrutar del juego que marcó el inicio de mi carrera como programador.
 
-** Link del juego: https://jcruzporcel.itch.io/waiting4rescue**
+**Link del juego: https://jcruzporcel.itch.io/waiting4rescue**
